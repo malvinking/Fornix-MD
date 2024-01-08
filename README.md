@@ -42,6 +42,9 @@ Fork The Repo
 
 <a href="https://heroku.com/deploy?template=https://github.com/AbhishekSuresh2/Phoenix-MD/"><img title="Phoenix-MD Deploy Heroku" src="https://img.shields.io/badge/DEPLOY HEROKU-h?color=black&style=for-the-badge&logo=heroku"></a>
 
+### Deploy Heroku Tutorial
+
+<a href="https://youtu.be/sDojtm-bwN4?si=gbvAqTOSfuVRU2-k"><img title="Heroku Tutorial" src="https://img.shields.io/badge/Heroku Tutorial-h?color=black&style=for-the-badge&logo=heroku"></a>
 ### Deploy Railway
 
 <a href="https://railway.app/new"><img title="Phoenix-MD Deploy Railway" src="https://img.shields.io/badge/DEPLOY RAILWAY-h?color=black&style=for-the-badge&logo=Railway"></a>
@@ -52,7 +55,7 @@ Fork The Repo
  
  ## Support
 
-SUPPORT GROUP: <a href="https://chat.whatsapp.com/BOLb0ICN3sAJ5dloRBw5VD"><img alt="WhatsApp" src="https://camo.githubusercontent.com/2157131829ac512183ee8f8b6c6f803688a4cc66a2e686602844e80478401a7c/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4a6f696e2047726f75702d3235443336363f7374796c653d666f722d7468652d6261646765266c6f676f3d7768617473617070266c6f676f436f6c6f723d7768697465"/></a>
+SUPPORT GROUP: <a href="https://chat.whatsapp.com/BOLb0ICN3sAJ5dloRBw5VD"><img alt="WhatsApp" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
 
 **Star ⭐ The Repo If You Like Phoenix-MD**
 
