@@ -12,13 +12,13 @@ let HANDLER = "false";
 
 module.exports = {
   //For Enabling Commands Like AUTO_STATUS_RED Type true For Desenabling Type false
-  ANTILINK: toBool(process.env.ANTI_LINK) || false,
+  ANTILINK: toBool(process.env.ANTI_LINK) || true,
   //_________________________________________________________________________________________________________________________________
   LOGS: toBool(process.env.LOGS) || true,
   //_________________________________________________________________________________________________________________________________
   ANTILINK_ACTION: process.env.ANTI_LINK || "kick",
   //_________________________________________________________________________________________________________________________________
-  AUTO_REACT: process.env.AUTO_REACT || 'false',
+  AUTO_REACT: process.env.AUTO_REACT || 'true',
   //_________________________________________________________________________________________________________________________________
   AUTO_STATUS_READ: process.env.AUTO_STATUS_READ || 'false',
   //_________________________________________________________________________________________________________________________________
