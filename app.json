@@ -2,7 +2,6 @@
   "name": "Phoenix-MD",
   "version": "1.0.0",
   "description": "Phoenix-MD Simple WhatsApp Bot",
-  "logo"
   "keywords": ["whatsapp", "bot", "md", "multi-device", "Phoenix", "Phoenix-MD", "wabot", "termux-bot", "sc-bot"],
   "repository": "https://github.com/AbhishekSuresh2/Phoenix-MD",
   "stack": "container",
