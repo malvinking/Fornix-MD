@@ -10,7 +10,7 @@ DATABASE_URL = process.env.DATABASE_URL || "./lib/database.db";
 
 module.exports = {
   //For Enabling Commands Like AUTO_STATUS_RED Type true For Disenabling Type false
-  ANTILINK: toBool(process.env.ANTI_LINK) || false,
+  ANTILINK: toBool(process.env.ANTI_LINK) || true,
   //_________________________________________________________________________________________________________________________________
   LOGS: toBool(process.env.LOGS) || true,
   //_________________________________________________________________________________________________________________________________
