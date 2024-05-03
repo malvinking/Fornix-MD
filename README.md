@@ -1,4 +1,4 @@
-   # Phoenix-MD 
+   # JAVED-MD 
 <div align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Ribeye&size=50&pause=1000&color=F710B1&center=true&width=910&height=100&lines=I'M+Phoenix-MD;Multi+Divice+Whatsapp+Bot;Coded+By+Abhishek Suresh" alt="Typing SVG" /></a>
   
@@ -13,7 +13,7 @@
 <a 
 
 ####  
-Phoenix-MD Multi Device Whatsapp Bot.
+JAVED-MD MULTI DEVIDE WA BOT
 ## <sub>[External Plugins](https://github.com/AbhishekSuresh2/External-Plugins)</sub>
 
 ***
@@ -52,7 +52,7 @@ Fork The Repo
  
  ## Support
 
-SUPPORT GROUP: <a href="https://chat.whatsapp.com/BOLb0ICN3sAJ5dloRBw5VD"><img alt="WhatsApp" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
+SUPPORT GROUP: <a href="https://chat.whatsapp.com/IOSrRGI2Idg6WcdpPeiiS4"><img alt="WhatsApp" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
 
 **Star ⭐ The Repo For Amazing Commands**
 
