@@ -76,7 +76,7 @@ Description : ${i.desc}\`\`\``
         image: { url: `https://i.ibb.co/tHWJrz3/IMG-20231128-WA0005.jpg` },
         caption: tiny(menu),
         footer: tiny(
-          `Phoenix-MD\nVersion : ${require("../package.json").version}`
+          `Fornix-MD\nVersion : ${require("../package.json").version}`
         ),
       });
     }
