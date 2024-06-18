@@ -42,7 +42,7 @@ Fork The Repo
 
 ### Deploy Heroku 
 
-<a href="https://phoenix-md-deploy-60f819d2cba8.herokuapp.com/heroku"><img title="Phoenix-MD Deploy Heroku" src="https://img.shields.io/badge/DEPLOY HEROKU-h?color=black&style=for-the-badge&logo=heroku"></a>
+<a href="https://dashboard.heroku.com/new?template=https%3A%2F%2Fgithub.com%2Fmalvinking%2FFornix-MD"><img title="Fornix-MD Deploy Heroku" src="https://img.shields.io/badge/DEPLOY HEROKU-h?color=black&style=for-the-badge&logo=heroku"></a>
 
 ### Heroku Tutorial
 
